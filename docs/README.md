@@ -76,6 +76,8 @@ Explore detailed guidance for each phase of the project lifecycle:
 ### Supporting Documentation
 
 - **[Roles & Personas](octoacme-roles-and-personas.md)** - Detailed role definitions, responsibilities, and communication patterns for team members
+- **[Role Responsibilities Checklist](role-responsibilities-checklist.md)** - Checklist to ensure all critical roles are assigned and accountabilities are clear
+- **[Stakeholder Engagement Template](stakeholder-engagement-template.md)** - Structured approach to identify, analyze, and engage with project stakeholders
 
 ## Getting Started
 
